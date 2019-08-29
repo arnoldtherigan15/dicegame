@@ -2,7 +2,7 @@
 
 
  :game_die: [**Play The Game**] **https://arnoldtherigan15.github.io/dicegame/**
-
+![alt text](https://github.com/arnoldtherigan15/dicegame/blob/master/images/prev1.png)
 
 ### How to Play
 - Click Refresh Me
